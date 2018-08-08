@@ -1,7 +1,7 @@
 <?php
 	
 	//your email here
-	$to_email = 'hasan.sylh3t@gmail.com';
+	$to_email = '//formspree.io/hasan.sylh3t@gmail.com';
 	
 	//subject of email you will receive
 	$subject = 'Contact from Website!';	
