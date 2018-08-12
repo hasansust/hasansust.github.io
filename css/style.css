@@ -595,9 +595,7 @@ body {
     margin-top: 0;
 }
 
-.story-content div p {
-    text-indent: 25px;
-}
+
 
 .story-content div a {
     border: 1px solid #6A8D9D;
@@ -905,7 +903,7 @@ body {
     color: #fff;
 }
 
-#projects > .mix {
+.projects .mix {
     display: none;
 }
 
@@ -1250,6 +1248,7 @@ body {
 .contact-details .social-media a + .tooltip > .tooltip-arrow {
     border-top-color: #343333;
 }
+
 
                     /*-------------
                        11 ) Footer 
